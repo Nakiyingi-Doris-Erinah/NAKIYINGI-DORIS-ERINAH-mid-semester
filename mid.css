@@ -1,0 +1,13 @@
+nav{
+    background-color:chocolate;
+    height: 80px;
+    width: 100%;
+}
+run.label{
+    font-weight: bold;
+    color: whitesmoke;
+    line-height: 80px;
+    font-family: Bahnchrift;
+    font-size: 30px; 
+   margin-left: 80px;
+}
